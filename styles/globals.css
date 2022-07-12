@@ -14,3 +14,21 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.NavBar{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 50px;
+  border-bottom: solid 2px;
+}
+
+.NavBar input{
+  width: 100%;
+  margin: 0 20px;
+  padding: 5px;
+}
+
+.NavBar h2{
+  margin: 0 20px;
+}
